@@ -1,0 +1,12 @@
+{
+    "checkpoint_files": [
+        "/kaggle/working/results/ecg/cnn32_seed42/cnn32_seed42_augmented_checkpoint1.pt",
+        "/kaggle/working/results/ecg/cnn32_seed42/cnn32_seed42_augmented_checkpoint2.pt",
+        "/kaggle/working/results/ecg/cnn32_seed42/cnn32_seed42_augmented_checkpoint3.pt",
+        "/kaggle/working/results/ecg/cnn32_seed42/cnn32_seed42_augmented_checkpoint4.pt",
+        "/kaggle/working/results/ecg/cnn32_seed42/cnn32_seed42_augmented_checkpoint5.pt",
+        "/kaggle/working/results/ecg/cnn32_seed42/cnn32_seed42_augmented_checkpoint6.pt"
+    ],
+    "latent_dim": 32,
+    "name": "cnn32_seed42_augmented"
+}
